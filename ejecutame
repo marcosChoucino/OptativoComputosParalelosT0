@@ -1,0 +1,3 @@
+clear
+gcc optativo.c
+./a.out 8 9  datos.dat
